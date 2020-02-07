@@ -12,6 +12,31 @@
 // null
 
 //STEP 3
-144
-String
-let
+
+
+//STEP 4
+// var firstName;
+// var lastName;
+// var strAddress;
+// var strCity;
+// var strState;
+// var zipCode;
+// var yourAge;
+// var referralSource;
+// var mayWeContactYou;
+
+// STEP 5
+// firstName = "Teresa";
+// lastName = "Smith";
+// strAddress = "1234 Nunya St"
+// strCity = "San Diego";
+// strState = "California";
+// zipCode = "92112";
+// yourAge ="29";
+// referralSource = "SDCE";
+// mayWeContactYou = "NO!"
+
+//STEP 6
+
+
+
