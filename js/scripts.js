@@ -12,3 +12,6 @@
 // null
 
 //STEP 3
+144
+String
+let
